@@ -1,0 +1,30 @@
+.logo{
+    height: 99px;
+    margin: 0 auto;
+    width: 1500px;
+    background-color: white;
+}
+.logo img{
+    margin-left: 500px;
+    height: 99px;
+}
+.body{
+    height: 1000px;
+    width: 800px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+input{
+    height: 40px;
+    width: 75px;
+    background-color:pink;
+    border-radius: 6px;
+    color:rgb(54, 56, 68)
+}
+.body .imm img{
+    height: 200px;
+
+}
+.body table{
+    background-color:rgb(241, 216, 221);
+}

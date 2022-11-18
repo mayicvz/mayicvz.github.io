@@ -1,0 +1,85 @@
+.center{
+    width: 1000px;
+    margin: 0 auto;
+}
+.top{
+    height: 20px;
+    background-color: rgb(183, 150, 179);
+}
+.top .topc{
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+/* top */
+.logo{
+    height: 99px;
+    background-color: white;
+}
+.logo .logocenter{
+   height:99px;
+  
+   
+}
+.logo .cleft h1 a{
+    display: inline-block;
+    width: 221px;
+    height: 97px;
+    background: url(images\plogo.png);
+}
+.logo .ccenter{
+    width: 300px;
+    height: 27px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-radius: 7px;
+
+}
+.logo .ccenter .text{
+    height: 27px;
+    width: 236px;
+    outline-color: cornflowerblue;
+}
+.logo .ccenter .btn{
+    height: 27px;
+    width: 60px;
+    background-color: blanchedalmond;
+    border-radius: 7px;
+    
+}
+.logo .ig img{
+    height: 99px;
+    width: auto;
+}
+input{
+    
+    background-color: gainsboro;
+}
+.logo .cright a{
+  line-height: 80px;
+
+  font-size: 20px;
+
+}
+.menu{
+    width: 950px;
+    background-color: bisque;
+    height:auto;
+    margin-left: 290px;
+    text-align: center;
+    background-color: rgb(228, 162, 226);
+}
+.menu a{
+    line-height: 50%;
+}
+.menu img{
+    width: 200px;
+    height: auto;
+    margin-left: 28px;
+}
+.down{
+    margin-top: 20px;
+    width:auto;
+    height: 1100px;
+    background-color: rgb(228, 107, 224);
+}
